@@ -108,6 +108,31 @@
     },
     {
         "codes": [
+            "anp"
+        ],
+        "names": [
+            "Angika",
+        ],
+        "family": [
+            "inc",
+            "iir",
+            "ine"
+        ],
+        "scripts": [
+            "Deva"
+        ],
+        "typology": {
+            "word_order": [
+                "SOV"
+            ],
+            "morphosyntax": null
+        },
+        "territories": [
+            "in"
+        ]
+    },
+    {
+        "codes": [
             "af",
             "afr"
         ],
